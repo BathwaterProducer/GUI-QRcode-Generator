@@ -35,7 +35,7 @@
 
 ## 截图
 
-<img width="500" height="700" alt="image" src="https://github.com/user-attachments/assets/e39deff0-3318-45d9-931a-62b1f2f7ac30" />
+<img width="500" height="700" alt="image" src="https://github.com/user-attachments/assets/ce7bf192-7c90-467a-bd40-601f1dd72c18" />
 <img width="500" height="700" alt="image" src="https://github.com/user-attachments/assets/3c2303d6-5584-4c69-8e3c-894bc5c6d283" />
 
 ## 贡献
