@@ -35,7 +35,8 @@
 
 ## 截图
 
-*（您可以在此处添加应用程序的屏幕截图）*
+*（<img width="1013" height="1539" alt="image" src="https://github.com/user-attachments/assets/e39deff0-3318-45d9-931a-62b1f2f7ac30" />
+*
 
 ## 贡献
 
